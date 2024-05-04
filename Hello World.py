@@ -96,7 +96,7 @@ print (a,type(a))
 a = 10
 print("value of a =", a)
 
-b = 3git 0
+b = 30
 print("value of b =",b)
 
 # now there are 2 methods
